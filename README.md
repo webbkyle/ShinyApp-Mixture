@@ -1,2 +1,3 @@
 # ShinyApp-Mixture
-Mixture Simulation of Two Normal Distributions
+Mixture Simulation of user defined number of Gaussian distributions with random mean and standard deviation and random  
+allocation of points to each Gaussian component. 
