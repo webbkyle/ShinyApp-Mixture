@@ -1,0 +1,3 @@
+source("/Users/kylewebb/Downloads/Mixture Simulation/ui.R")
+source("/Users/kylewebb/Downloads/Mixture Simulation/server.R")
+source("/Users/kylewebb/Downloads/Mixture Simulation/ui.R")
